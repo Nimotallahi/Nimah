@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<!-- saved from url=(0044)file:///C:/Users/HP/Desktop/retro/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retro</title>
+</head>
+<body>
+   <!-- <section 1 -->
+    <section class="s_height">
+        <div>
+            <div>
+                retro
+            </div>
+            <div>
+                <nav>
+                    <div>Home</div>
+                    <div>About Us</div>
+                    <div>Food</div>
+                    <div>Menu</div>
+                    <div>Contact Us</div>
+                </nav>
+            </div>
+            <div>
+                x
+            </div>
+            <div>
+                <div>
+                    <h2>Chosing<br>Quality Food.</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat<br> dolorum consectetur consequatur distinctio, </p>
+                    <button type="button">Explore All</button><br>
+                    <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                    <button>Order</button><button>+</button>
+            </div>
+           </div> 
+    </div></section>
+    <!-- <section 2 -->
+       <section class="s_height">
+        <div>
+            <div>
+                DISCOVER<br>Our Featured Food
+            </div>
+            <div>
+                See All Food--&gt;
+            </div>        
+           </div>
+           <div>
+            <div>
+                <div>
+                    <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                    Random Fruit<br>Indian Mix
+                </div>
+                <div>
+                    <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                    Random Fruit<br>Indian Mix
+                </div>
+                <div>
+                    <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                    Random Fruit<br>Indian Mix
+                </div>
+                <div>
+                    <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                    Random Fruit<br>Indian Mix
+                </div>
+            </div>
+            <div>
+                <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                Random Fruit<br>Indian Mix
+            </div>
+            <div>
+                <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                Random Fruit<br>Indian Mix
+            </div>
+            <div>
+                <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                Random Fruit<br>Indian Mix
+            </div>
+            <div>
+                <img src="./Mega Frost Home Page_files/fried rice.jpg" alt="">
+                Random Fruit<br>Indian Mix
+            </div>
+           </div>
+       </section>
+       <!-- <section 3 -->
+       <section class="s_height">
+        <div>
+            <div>
+                <h2>Explore more food with<br>our mobile app</h2>
+                <span>Get it on Google play</span><span>Download on the Apple Store</span>
+    
+            </div>
+            <div>
+                <img src="./Mega Frost Home Page_files/uber_eats.png" alt="">
+            </div>
+           </div>
+       </section>
+       <section class="s_height">
+        <div>
+            <h2>Food's the most precious things<br>all over the world</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium qui aspernatur suscipit<br> laboriosam odit sint reiciendis minus inventore, nam</p>
+            <button>Explore All&gt;</button><br>
+            <span>Expedia</span><span>Docusign</span><span>CONCUR</span><span>onelogin</span>
+           </div>
+           <div>
+            <h2>Book a Table</h2>
+            <form action="file:///C:/Users/HP/Desktop/retro/index.html" method="post">
+                <div>
+                    <div>
+                    <label for="Date">Date</label>
+                    <input type="date" name="date" id="date">
+                    </div>
+                   <div>
+                    <label for="Time">Time</label>
+                    <input type="time" name="time" id="time">
+                   </div>
+                   <div>
+                    <label for="Guest Number">Guest number</label>
+                    <input type="number" name="gnum" id="gnum">
+                   </div>
+                   </div>
+                   <div>
+                    <div>
+                        <label for="Email">Email</label>
+                        <input type="email" name="email" id="email">
+                       </div>
+                   </div>
+                   <div>
+                    <button type="submit">Book Appointment</button>
+                   </div>
+            </form>
+            <div>
+                <div>
+                    <h4>Quick Link</h4>
+                    <ul>
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Contact</li>
+                        <li>Register</li>
+                        <li>Login</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Quick Link</h4>
+                    <ul>
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Contact</li>
+                        <li>Register</li>
+                        <li>Login</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Quick Link</h4>
+                    <ul>
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Contact</li>
+                        <li>Register</li>
+                        <li>Login</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Quick Link</h4>
+                    <ul>
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Contact</li>
+                        <li>Register</li>
+                        <li>Login</li>
+                    </ul>
+                </div>
+            </div>
+       </div></section>
+
+</body></html>
